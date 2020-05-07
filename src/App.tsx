@@ -7,7 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Probably will create awesome page, but not2day
+          Probably will create an awesome page
+        </p>
+        <p>
+          but not2day
         </p>
       </header>
     </div>
