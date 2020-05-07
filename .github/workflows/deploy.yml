@@ -26,6 +26,11 @@ jobs:
         npm install
         npm build
 
+    - name: ECHO
+      run: |
+        ls
+        echo "123"
+
     - name: Firebase Deploy
       run: |
         sudo npm install -g firebase-tools
